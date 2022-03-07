@@ -15,4 +15,9 @@ markdown_extensions:
 nav:
  - Home: "index.md"
  - Scripta Manent:
-     - Time Series Forcasting: "time_series/tsa_oct_2021.md"
+     - Time Series:
+         - Time Series To-Read: "time_series/to_read.md"
+         - Time Series Forcasting: "time_series/tsa_oct_2021.md"
+     - Emergent Constraints:
+         - EC To-Read: "ec/to_read.md"
+
