@@ -1,0 +1,18 @@
+site_name: PubRead
+
+theme: mkdocs
+
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+    - mathjaxhelper.js
+
+markdown_extensions:
+    - extra
+    - tables
+    - fenced_code
+    - footnotes
+
+nav:
+ - Home: "index.md"
+ - Scripta Manent:
+     - Time Series Forcasting: "time_series/tsa_oct_2021.md"
