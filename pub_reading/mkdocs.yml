@@ -20,4 +20,6 @@ nav:
          - Time Series Forcasting: "time_series/tsa_oct_2021.md"
      - Emergent Constraints:
          - EC To-Read: "ec/to_read.md"
+         - hall2018: "ec/hall_et_al_2019.md"
+         - cox2018: "ec/cox2018_meth.md"
 
